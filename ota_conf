@@ -3,7 +3,7 @@ ota_url=https://raw.githubusercontent.com/Darkness-reDefined/dnd_OTA/master/dndO
 release_type=Stable
 device_name=ro.reDefined.device
  
-#example ro.reDefined.version=DarkNess-reDefined-N-v1.0-20170201-kenzo-Official.zip
+#example ro.reDefined.version=DND-v1.5-kenzo-20170615-1335-OFFICIAL.zip
 version_source=ro.reDefined.version
 version_delimiter=-
 version_position=3
