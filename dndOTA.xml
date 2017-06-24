@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>DND-v1.5-20170623-1306-OFFICIAL.zip</Filename>
+            <Filename>DND-v2.0-kenzo-20170624-1424-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download DND build">http://35.188.10.217/DND-v1.5-20170623-1306-OFFICIAL.zip</RomUrl>
+                description="Download DND build">https://www.androidfilehost.com/?fid=889764386195911230</RomUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
