@@ -237,5 +237,20 @@
                 title="XDA"
                 description="Visit DND Moto Z Play XDA thread">https://forum.xda-developers.com/moto-z-play/development/rom-darkness-redefined-1-3-oms-dui-t3581033</XDAUrl>
         </addison>
+         <wt88047>
+            <Filename>DND-v2.0-wt88047-20170703-0955-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=745425885120745943</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Redmi 2 XDA thread">https://forum.xda-developers.com/redmi-2/development/rom-darkness-redefined-t3626957</XDAUrl>
+        </wt88047>
     </Stable>
 </SlimOTA>
