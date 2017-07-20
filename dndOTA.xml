@@ -46,6 +46,21 @@
                 title="XDA"
                 description="Visit DND Z00L XDA thread">https://forum.xda-developers.com/zenfone-2-laser/orig-development/rom-darkness-redefined-z00l-t3553602</XDAUrl>
        </Z00L>
+       <tomato>
+            <Filename>DND-v2.1-tomato-20170718-0901-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=745425885120749551</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND YUREKA/+ XDA thread">https://forum.xda-developers.com/yureka/orig-development/rom-darkness-redefined-t3639060</XDAUrl>
+       </tomato>
         <gemini>
             <Filename>DarkNess-reDefined-N-v1.0-20170207-gemini-Official.zip</Filename>
             <RomUrl
