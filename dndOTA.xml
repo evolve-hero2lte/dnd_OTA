@@ -237,6 +237,21 @@
                 title="XDA"
                 description="Visit DND LenovoK4Note XDA thread">https://forum.xda-developers.com/k4-note/development/rom-darkness-redefined-t3577935</XDAUrl>
         </A7010a48>
+        <karate>
+            <Filename>DND-v2.1-karate-20170721-1344-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://www.androidfilehost.com/?fid=817550096634788119</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Lenovo karate XDA thread">https://forum.xda-developers.com/android/development/rom-darkness-redefined-rom-v2-1-lenovo-t3640435</XDAUrl>
+        </karate>
         <oneplus2>
             <Filename>DarkNess-reDefined-N-v1.4-20170502-oneplus2-Official.zip</Filename>
             <RomUrl
